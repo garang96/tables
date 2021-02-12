@@ -8,8 +8,8 @@ I created a table of items with their details that has borders around it and aro
 
 ## Built with
 
--HTML
--CSS
+- HTML
+- CSS
 
 ## Live Demo
 
@@ -20,4 +20,14 @@ I created a table of items with their details that has borders around it and aro
 **John Alier Garang**
 
 - Github: [@garang96](https://github.com/garang96)
+
+## Contributing
+
+Contributions,issues,and feature request are welcomed!
+
+Feel free to check the [issues page](https://rawcdn.githack.com/garang96/Embedding-Videos/tree/Embbeding)
+
+## Show your support
+
+Give a star if you like this practice.
 
