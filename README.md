@@ -17,7 +17,7 @@ I created a table of items with their details that has borders around it and aro
 
 ## Authors
 
-**John Alier Garang**
+👤 **John alier Garang**
 
 - Github: [@garang96](https://github.com/garang96)
 
