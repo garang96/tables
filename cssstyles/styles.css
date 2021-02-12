@@ -8,10 +8,65 @@ body {
 table {
   border-collapse: collapse;
   margin: auto;
-  width: 600px;
+  width: 480px;
+  margin-top: 20px;
+}
+
+.table-caption {
+  margin-bottom: 10px;
+  font-size: 20px;
+  color: black;
+  text-align: center;
 }
 th,
 td {
   border: 1px solid grey;
   padding: 10px 17px;
+}
+
+th {
+  text-align: left;
+  background-color: #385878;
+  color: #fff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: rgba(128, 128, 128, 0.479);
+}
+
+span {
+  color: rgba(0, 0, 0, 0.37);
+  font-size: 14px;
+  line-height: 15px;
+}
+
+.item-price {
+  text-align: right;
+  color: rgba(0, 0, 0, 0.274);
+}
+
+.item-name {
+  color: #395870a6;
+  font-size: 18px;
+}
+
+.item-stock {
+  color: rgba(0, 0, 0, 0.473);
+  font-size: 16px;
+}
+
+.item-qty {
+  color: rgba(0, 0, 0, 0.486);
+}
+
+tfoot {
+  text-align: right;
+  color: rgba(128, 128, 128, 0.719);
+}
+
+tfoot tr:last-child {
+  color: #395870;
+  font-size: 18px;
+  font-weight: bolder;
+  background-color: rgba(128, 128, 128, 0.479);
 }
